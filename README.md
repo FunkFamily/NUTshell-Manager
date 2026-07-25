@@ -41,6 +41,7 @@ Install
 Select directory and run:
 
 cd nut-cockpit-manager/cockpit/
+
 sudo ./install.sh
 
 Open Cockpit at:
