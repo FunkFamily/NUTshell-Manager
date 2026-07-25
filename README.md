@@ -2,9 +2,9 @@ NUTshell Manager Tools
 
 These tools provide command-line and browser-based management for Network UPS Tools (NUT) on Ubuntu and Debian systems.
 
-nut-manager.sh
+nutshell-manager.sh
 
-nut-manager.sh is a menu-driven Bash interface for configuring and managing a NUT server or client.
+nutshell-manager.sh is a menu-driven Bash interface for configuring and managing a NUT server or client.
 
 Features
 Configure standalone, network server, or network client modes
@@ -20,7 +20,9 @@ sudo install -m 755 nut-manager.sh /usr/local/sbin/nut-manager
 Run it with:
 
 sudo nut-manager
-nut-cockpit-extension
+
+
+**nut-cockpit-extension**
 
 nut-cockpit-extension provides similar NUT management features inside the Cockpit web interface.
 
@@ -36,7 +38,7 @@ Install
 
 Select directory and run:
 
-cd nut-cockpit-manager
+cd nut-cockpit-manager/cockpit/
 sudo ./install.sh
 
 Open Cockpit at:
