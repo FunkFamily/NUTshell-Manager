@@ -34,9 +34,8 @@ Logs, diagnostics, backups, and restoration
 Uses Cockpit authentication and administrator privileges
 Install
 
-Extract the package and run:
+Select directory and run:
 
-tar -xzf nut-cockpit-manager-1.0.0.tar.gz
 cd nut-cockpit-manager
 sudo ./install.sh
 
