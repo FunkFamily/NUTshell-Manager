@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "nut_manager",
+  "requires": {
+    "cockpit": "300"
+  },
+  "tools": {
+    "nut_manager": {
+      "label": "NUT Manager",
+      "path": "index.html",
+      "order": 45
+    }
+  }
+}
