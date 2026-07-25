@@ -21,6 +21,8 @@ Run it with:
 
 sudo nut-manager
 
+<img width="3117" height="1061" alt="nutshell-manager" src="https://github.com/user-attachments/assets/2fca11f0-1d58-4b93-a82f-508b928a5787" />
+
 
 **nut-cockpit-extension**
 
@@ -44,6 +46,8 @@ sudo ./install.sh
 Open Cockpit at:
 
 https://SERVER-IP:9090
+
+<img width="3435" height="1264" alt="NUTshell-cockpit-extension" src="https://github.com/user-attachments/assets/aec57e22-9ac5-4cc6-911b-f5233ff38d2c" />
 
 Then select:
 
