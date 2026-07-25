@@ -2,9 +2,9 @@ NUTshell Manager Tools
 
 These tools provide command-line and browser-based management for Network UPS Tools (NUT) on Ubuntu and Debian systems.
 
-nutshell-manager.sh
+nut-manager.sh
 
-nutshell-manager.sh is a menu-driven Bash interface for configuring and managing a NUT server or client.
+nut-manager.sh is a menu-driven Bash interface for configuring and managing a NUT server or client.
 
 Features
 Configure standalone, network server, or network client modes
