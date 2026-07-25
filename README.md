@@ -53,7 +53,6 @@ https://SERVER-IP:9090
 Then select:
 
 Tools → NUT Manager
-Backups
 
 Configuration backups are stored in:
 
