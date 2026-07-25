@@ -1,4 +1,5 @@
 #Cockpit NUTshell Manager
+
 A browser-based Network UPS Tools management extension for Cockpit on Ubuntu and Debian.
 It uses the existing Cockpit login and Cockpit's administrator privilege escalation. It does not run a second web server or open an additional management port.
 Features
